@@ -6,3 +6,10 @@ Il s'agit généralement d'un problème d'apprentissage non supervisé, où l'on
 
 
 Cependant, les étiquettes peuvent être utiles pour évaluer le modèle créé. Ce module couvrira deux méthodes : la technique de détection d'anomalies appelée "Isolation Forest" et la technique de détection de nouveautés ou "Novelty Detection" en anglais, la "One Class SVM".
+
+
+
+Les algorithmes de machine learning traditionnels ne sont pas efficaces pour détecter les fraudes dans les transactions bancaires en raison de la disproportion entre les transactions frauduleuses et non frauduleuses. 
+
+
+Un ensemble de données anonymisé, décrivant des transactions bancaires, comportant 31 variables.
